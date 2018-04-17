@@ -6,7 +6,7 @@ and interactive visualization.
 
 Created by: Salvatore Immordino, Michael Scott, Xu Han,... **Please add** at 04/16/2018
 
-Input_data2.csv is not available here judging the large size. It will be sent upon request.
+Input_data2.csv is not available here due to its large size. It will be sent upon request.
 
 Major methods used:
 TF-IDF, Silhouette Coefficient, Clustering
